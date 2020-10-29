@@ -10,7 +10,7 @@ class Email extends BaseConfig
 	/**
 	 * @var string
 	 */
-	public $fromEmail = 'subastian.kf@gmail.com';
+	public $fromEmail = '';
 
 	/**
 	 * @var string
@@ -55,7 +55,7 @@ class Email extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $SMTPUser = 'subastian.kf@gmail.com';
+	public $SMTPUser = '';
 
 	/**
 	 * SMTP Password
